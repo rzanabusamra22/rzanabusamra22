@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rzanabusamra22
-- 👀 I’m interested in Product Devlopment
+- 👋 Hi, I’m Razan Abusamra
+- 👀 I'm interested in Product Development
 - 🌱 I’m currently learning SQL
 
 <!---
