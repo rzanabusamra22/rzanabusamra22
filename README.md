@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Razan Abusamra
 - 👀 I'm interested in Product Development
-- 🌱 I’m currently learning SQL
 
 <!---
 rzanabusamra22/rzanabusamra22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
